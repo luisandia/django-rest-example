@@ -1,3 +1,5 @@
 coverage:
   status:
     project: false
+codecov:
+  token: 75fde10c-e2eb-4cf0-8804-f1e8c102cf75
