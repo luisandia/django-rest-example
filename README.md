@@ -7,7 +7,8 @@
    :target: https://codecov.io/github/scrapy/scrapy?branch=master
    :alt: Coverage report
 
-[![codecov](https://codecov.io/gh/TechnionYP5777/SmartCity-Market/branch/master/graph/badge.svg)](https://codecov.io/gh/luisandia/django-rest-example)
+[![codecov](https://codecov.io/gh/luisandia/django-rest-example/branch/master/graph/badge.svg)](https://codecov.io/gh/luisandia/django-rest-example)
+
 
 
 Recipe app api 
