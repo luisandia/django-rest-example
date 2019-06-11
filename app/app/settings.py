@@ -121,3 +121,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 AUTH_USER_MODEL = 'core.User'
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','0.0.0.0','testserver']
