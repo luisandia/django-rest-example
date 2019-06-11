@@ -1,11 +1,6 @@
 # restdjangoapi
-.. image:: https://img.shields.io/travis/scrapy/scrapy/master.svg
-   :target: https://travis-ci.org/scrapy/scrapy
-   :alt: Build Status
 
-.. image:: https://img.shields.io/codecov/c/github/scrapy/scrapy/master.svg
-   :target: https://codecov.io/github/scrapy/scrapy?branch=master
-   :alt: Coverage report
+[![Build Status](https://travis-ci.com/luisandia/restdjangoapi.svg?branch=master)](https://travis-ci.com/luisandia/restdjangoapi)
 
 [![codecov](https://codecov.io/gh/luisandia/django-rest-example/branch/master/graph/badge.svg)](https://codecov.io/gh/luisandia/django-rest-example)
 
