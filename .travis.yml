@@ -7,7 +7,6 @@ before_script: pip install docker-compose codecov tox coverage
 
 script:
   - docker-compose run app sh -c "python manage.py test && flake8"
-  - coverage run  ./app/manage.py test app
 
 # Push the results back to codecov
 after_success:
